@@ -278,5 +278,15 @@
     "type": "xrc20",
     "symbol": "AAVE-matic",
     "decimals": 18
+  },
+    "io1x2uewlpr5dd5d056694k3u5udrv59ex55axycs": {
+    "name": "Gladius Finance",
+    "description": "GLADIUS FINANCE is a fusion between a DeFi Yield Farming and an NFTs Gaming dApp, that aims at solving the problems that overshadowed Yield Farming platforms",
+    "logo": "io1x2uewlpr5dd5d056694k3u5udrv59ex55axycs.png",
+    "type": "xrc20",
+    "symbol": "GLAD",
+    "decimals": 18
   }
+}
+
 }
